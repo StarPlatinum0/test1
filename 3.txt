@@ -1,2 +1,7 @@
 nmlgb
+<<<<<<< HEAD
 nmlgb
+=======
+nmlgcb
+
+>>>>>>> branch1
